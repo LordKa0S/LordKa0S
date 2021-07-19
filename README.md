@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" height="32" alt="C++" title="C++" />
 </a>
 <a href="https://nodejs.org/" target="_blank">
-  <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" height="32" alt="Node.js" title="Node.js" />
+  <img src="https://nodejs.org/static/images/logo-hexagon.svg" height="32" alt="Node.js" title="Node.js" />
 </a>
 <a href="https://dotnet.microsoft.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg" height="32" alt=".NET" title=".NET" />
