@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/8944414/kaustubh-badrike" target="_blank"><img src="https://raw.githubusercontent.com/StackExchange/Stacks-Icons/production/src/Icon/LogoGlyph.svg" height="32" alt="StackOverflow" title="StackOverflow" /></a>
 ### Tools 🛠
 <a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/python/pythondotorg/master/static/img/python-logo-large.png" height="32" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/python/cpython/main/PC/icons/logo.svg" height="32" alt="Python" title="Python" />
 </a>
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" height="32" alt="C++" title="C++" />
