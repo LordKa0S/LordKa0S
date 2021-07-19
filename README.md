@@ -46,4 +46,11 @@ Here are some ideas to get you started:
 
 ### Credentials ✅
 <!--START_SECTION:badges-->
+
+[![Microsoft Certified: Azure Data Scientist Associate](https://images.credly.com/size/110x110/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png)](http://www.credly.com/badges/04448282-526f-40a1-9902-b4e5bd6a28a3 "Microsoft Certified: Azure Data Scientist Associate")
+[![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/e6a1d6b1-9774-4174-b281-b7682322a426 "Microsoft Certified: Azure Developer Associate")
+[![Microsoft Certified: Azure Data Fundamentals](https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)](http://www.credly.com/badges/fe1a56f4-572e-47e1-9fe9-56f8f688a2ab "Microsoft Certified: Azure Data Fundamentals")
+[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/01aaa1a5-b3d4-4b2f-81e5-21e32c4c8c82 "Microsoft Certified: Azure AI Fundamentals")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)](http://www.credly.com/badges/0a89c1fe-a1b4-4829-ab8d-d81e9b18e684 "Microsoft Certified: Azure Fundamentals")
+[![Oracle Certified Associate, Java SE 8 Programmer](https://images.credly.com/size/110x110/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png)](http://www.credly.com/badges/d159eb3c-25f9-4b30-aa1f-3a370d4ce4ea "Oracle Certified Associate, Java SE 8 Programmer")
 <!--END_SECTION:badges-->
