@@ -24,3 +24,4 @@ jobs:
       uses: pemtajo/badge-readme@2.1.0
       with:
         CREDLY_USER: 'kaustubh_badrike'
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
