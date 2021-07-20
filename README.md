@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 <a href="https://dotnet.microsoft.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.svg" height="32" alt=".NET" title=".NET" />
 </a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" height="32" alt="PostgreSQL" title="PostgreSQL" />
+</a>
 <a href="https://angular.io/" target="_blank">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="32" alt="Angular" title="Angular" />
 </a>
