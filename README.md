@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 ### Credentials ✅
 <!--START_SECTION:badges-->
 
+[![IBM Quantum Challenge - Fall 2021 - Advanced](https://images.credly.com/size/110x110/images/5ac2919b-daee-47f4-a77e-015dc660a4f8/IBM_Quantum_Challenge_Fall_2021_Achievement_-_Advanced.png)](http://www.credly.com/badges/c1e34c92-6967-4579-8938-bf2d97894fef "IBM Quantum Challenge - Fall 2021 - Advanced")
 [![Microsoft Certified: Azure AI Engineer Associate](https://images.credly.com/size/110x110/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png)](http://www.credly.com/badges/2325f459-af1d-4cd7-81d9-d4176f5ab265 "Microsoft Certified: Azure AI Engineer Associate")
 [![Microsoft Certified: Azure Data Scientist Associate](https://images.credly.com/size/110x110/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png)](http://www.credly.com/badges/04448282-526f-40a1-9902-b4e5bd6a28a3 "Microsoft Certified: Azure Data Scientist Associate")
 [![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/110x110/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/e6a1d6b1-9774-4174-b281-b7682322a426 "Microsoft Certified: Azure Developer Associate")
