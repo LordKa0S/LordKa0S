@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Let's build amazing ideas! 💡
 ### Connect 🤝🏽
 <a href="https://www.linkedin.com/in/kaustubhbadrike/" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="32" alt="LinkedIn"  title="LinkedIn" /></a>
-<a href="https://stackoverflow.com/users/8944414/kaustubh-badrike" target="_blank"><img src="https://raw.githubusercontent.com/StackExchange/Stacks-Icons/production/src/Icon/LogoGlyph.svg" height="32" alt="StackOverflow" title="StackOverflow" /></a>
+<a href="https://stackoverflow.com/users/8944414/kaustubh-badrike" target="_blank"><img src="https://raw.githubusercontent.com/StackExchange/Stacks-Icons/v4.0.0/src/Icon/LogoGlyph.svg" height="32" alt="StackOverflow" title="StackOverflow" /></a>
 ### Tools 🛠
 <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/python/cpython/main/PC/icons/logo.svg" height="32" alt="Python" title="Python" />
